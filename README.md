@@ -14,3 +14,7 @@ Features:
 - Humidity
 - pH
 - Rainfall
+
+Dataset
+The dataset was taken from kaggle and contains soil nutrients, temperature, humidity, pH, 
+and rainfall data for crop prediction.
