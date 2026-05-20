@@ -4,7 +4,7 @@ Model Used:
 Random Forest Classifier
 
 Accuracy:
-99.31%
+99.31
 
 # Features:
 - Nitrogen
@@ -24,6 +24,6 @@ Accuracy:
 - # Visualization
 - Confusion Matrix Heatmap added using Seaborn and matplotlib.
 
-Dataset : 
+# Dataset : 
 The dataset was taken from kaggle and contains soil nutrients, temperature, humidity, pH, 
 and rainfall data for crop prediction.
