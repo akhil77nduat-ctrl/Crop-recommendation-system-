@@ -1,4 +1,4 @@
-This project predicts suitable crops using Machine Learning.
+# This project predicts suitable crops using Machine Learning.
 
 Model Used:
 Random Forest Classifier
@@ -6,7 +6,7 @@ Random Forest Classifier
 Accuracy:
 99.31%
 
-Features:
+# Features:
 - Nitrogen
 - Phosphorus
 - Potassium
@@ -14,6 +14,15 @@ Features:
 - Humidity
 - pH
 - Rainfall
+- # Model Evaluation
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
+- Precision
+- F1-score
+
+- # Visualization
+- Confusion Matrix Heatmap added using Seaborn and matplotlib.
 
 Dataset : 
 The dataset was taken from kaggle and contains soil nutrients, temperature, humidity, pH, 
