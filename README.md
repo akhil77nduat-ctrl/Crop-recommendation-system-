@@ -1,9 +1,20 @@
 # This project predicts suitable crops using Machine Learning.
+# Technologies Used
+Python
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Seaborn
+# How to run
+Clone the repository
+Install required libraries
+Run the notebook
 
-Model Used:
+# Model Used:
 Random Forest Classifier
 
-Accuracy:
+# Accuracy:
 99.31
 
 # Features:
